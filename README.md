@@ -11,7 +11,7 @@
 
 This project gets your recent commits from your activities fetched from GitHub API, and process them with [linguist](https://github.com/github/linguist) to show the percentage of each languages used. This project also calculate how many lines of codes were added/removed per language.
 
-## Setup
+## Setup  
    
 ### Prep work
    
